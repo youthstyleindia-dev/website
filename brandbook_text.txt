@@ -1,0 +1,98 @@
+--- Page 1 ---
+vrholidayhom es
+B R A N D  B O O K
+Brand Book made by Pomelli
+
+--- Page 2 ---
+01 Brand Overview
+"WE ARE OPEN"
+V  R  H o lid a y  H o m e  o f f e r s  a f f o r d a b le ,
+c o z y  s t a y s  in  C a n d o lim ,  N o r t h  G o a ,
+p r o v id in g  a  h o m e - lik e  a t m o s p h e r e
+f o r  a ll t r a v e le r s  s e e k in g  c o m f o r t
+a n d  v a lu e .
+
+--- Page 3 ---
+02   Typography
+Playfair Display
+Open Sans
+T y p e f a c e s  a r e  t h e  w a y  y o u r  b r a n d
+c o m m u n ic a t e s  it s  v o ic e  a n d  t o n e .
+T h e s e  f o n t s  a r e  m e a n t  t o  b a la n c e
+h ie r a r c h y  a n d  r e a d a b ilit y  t o  e n s u r e
+y o u r  b r a n d  r e m a in s  r e c o g n iz a b le
+a n d  c o h e s iv e  a c r o s s  a ll m e d iu m s
+a n d  t o u c h p o in t s .
+P R I M A R Y  T Y P E F A C E
+A B C D E F G H I J K L M N O P Q R S T U V W X Y Z
+a b c d e f g h i j k l m n o p q r s t u v wx y z
+0 1 2 3 4 5 6 7 8 9 ! @ # $ %
+S E C O N D A R Y  T Y P E F A C E
+A B C D E F G H I JK LM N O P Q R S T U V W X Y Z
+a b c d ef g h i j k l m n o p q r s t u v w x y z
+0 1 2 3 4 5 6 7 8 9 ! @ # $ %
+
+--- Page 4 ---
+03. Color Palette
+Pure White
+Hex
+RGB
+CMYK
+HSL
+Twilight Blue
+Hex
+RGB
+CMYK
+HSL
+Obsidian Black
+Hex
+RGB
+CMYK
+HSL
+Doe Brown
+Hex
+RGB
+CMYK
+HSL
+C o lo r s  a r e  t h e  w a y  y o u r  b r a n d
+c o m m u n ic a t e s  it s  p e r s o n a lit y  a n d
+c h a r a c t e r .  T h e s e  c o lo r s  a r e  m e a n t
+t o  b a la n c e  f u n c t io n a lit y  w it h
+in t e n t io n a lit y  a n d  d e liv e r  o n  y o u r
+b r a n d ' s  m is s io n  a n d  p r o m is e .
+# F F F F F F
+2 5 5 ,  2 5 5 ,  2 5 5
+0 % ,  0 % ,  0 % ,  0 %
+0 ,  0 % ,  1 0 0 %
+# 1 C 3 C 8 0
+2 8 ,  6 0 ,  1 2 8
+7 8 . 1 2 % ,  5 3 . 1 2 % ,  0 % ,  4 9 . 8 %
+2 2 0 . 8 ,  6 4 . 1 % ,  3 0 . 5 9 %
+# 2 B 1 B 1 7
+4 3 ,  2 7 ,  2 3
+0 % ,  3 7 . 2 1 % ,  4 6 . 5 1 % ,  8 3 . 1 4 %
+1 2 ,  3 0 . 3 % ,  1 2 . 9 4 %
+# C 1 9 A 6 B
+1 9 3 ,  1 5 4 ,  1 0 7
+0 % ,  2 0 . 2 1 % ,  4 4 . 5 6 % ,  2 4 . 3 1 %
+3 2 . 7 9 ,  4 0 . 9 5 % ,  5 8 . 8 2 %
+
+--- Page 5 ---
+04. Imagery
+
+
+--- Page 6 ---
+05. Brand Voice
+"Connectivity, Availability, Accessibility"
+tropical minimalism
+unpretentious comfort
+breezy simplicity
+coastal utilitarian
+modest modernism
+Direct
+Minimalist
+Functional
+V A L U E S
+A E S T H E T I C
+T O N E  O F  V O I C E
+
